@@ -1,6 +1,6 @@
 # EventBusIJ_DesktopExample #
 
-A simple example desktop application project using EventBusIJ, the simple Event Bus for Desktop and Web Edition Real Studio projects.
+A simple example desktop application project using EventBusIJ, the simple *synchronous* Event Bus for Desktop and Web Edition Real Studio projects.
 
 ## How To Get ##
 
